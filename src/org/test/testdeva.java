@@ -12,11 +12,11 @@ public class testdeva {
 		
 	}
 
-	private void test3() {
-		System.out.println("test 3 is fully completed and satisfied");
+	private void test8() {
+		System.out.println("test 3 is not fully completed and satisfied");
 		
 	}
-	public void test4() {
+	public void test9() {
 
 		System.out.println("test 4 is not fully completed and satisfied");
 		
@@ -26,7 +26,11 @@ public class testdeva {
 
 	}
 	public void test6() {
-		System.out.println("test 6 is fully completed and satisfied");
+		System.out.println("test 6 is not fully completed and satisfied");
 		
+	}
+	public void test7() {
+		System.out.println("test 7 is not fully completed and satisfied");
+		System.out.println("project completed");
 	}
 }
